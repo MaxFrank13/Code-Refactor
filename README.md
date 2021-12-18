@@ -8,4 +8,4 @@ In this project, we were tasked to refactor a static web page for Horiseon Solut
 
 ![Live App](/assets/images/Horiseon-Solutions.png)
 
-Link to site: [Site Link](https://maxfrank13.github.io/Code-Refactor/)
+[Site Link](https://maxfrank13.github.io/Code-Refactor/)
