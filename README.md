@@ -6,4 +6,6 @@ In this project, we were tasked to refactor a static web page for Horiseon Solut
 
 ##
 
-![Live App](https://github.com/MaxFrank13/Code-Refactor/assets/images/Horiseon-Solutions.png)
+![Live App](/assets/images/Horiseon-Solutions.png)
+
+Link to site: [Site Link](https://maxfrank13.github.io/Code-Refactor/)
